@@ -1,6 +1,4 @@
-package class1.ref;
-
-import java.sql.SQLOutput;
+package ref;
 
 public class VarChange2 {
     public static void main(String[] args) {

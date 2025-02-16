@@ -4,33 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4ee7ab7-3534-4893-8904-bdcede11ffde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/MethodChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/VarChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ref/VarChange2.java" afterDir="false" />
+    <list default="true" id="a4ee7ab7-3534-4893-8904-bdcede11ffde" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberDefaultMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberInIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MemberThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPalyerMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPalyerMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleOopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/MethodChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/MethodChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/VarChange1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class1/ref/VarChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +74,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountMain.executor": "Run",
     "Application.ClassStart1.executor": "Run",
     "Application.ClassStart2.executor": "Run",
     "Application.ClassStart3.executor": "Run",
     "Application.ClassStart4.executor": "Run",
+    "Application.ConstructMain1.executor": "Run",
+    "Application.InitMain.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MemberDefaultMain.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
     "Application.MethodChange1.executor": "Run",
     "Application.MethodChange2.executor": "Run",
+    "Application.MethodInitMain1.executor": "Run",
+    "Application.MethodInitMain2.executor": "Run",
     "Application.MovieReviewMain2.executor": "Run",
+    "Application.MusicPalyerMain2.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
+    "Application.NullMain1.executor": "Run",
+    "Application.NullMain2.executor": "Run",
+    "Application.NullMain3.executor": "Run",
+    "Application.NullMain4.executor": "Run",
     "Application.ProductOrderMain.executor": "Run",
+    "Application.ProductOrderMain2.executor": "Run",
+    "Application.ProductOrderMain3.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
     "Application.VarChange2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,17 +119,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="construct" />
+      <recent name="oop1" />
+      <recent name="class1.ref.ex" />
       <recent name="class1.ref" />
       <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Method2">
-    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.Method1" />
+  <component name="RunManager" selected="Application.MemberDefaultMain">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.ex.AccountMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="oop1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.Method2" />
+    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChange1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.MethodChange1" />
+    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.MethodChange2" />
+    <configuration name="MethodInitMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarChange2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.ref.VarChange2" />
+    <configuration name="MethodInitMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="construct.MethodInitMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.ref.*" />
+          <option name="PATTERN" value="construct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Method2" />
-        <item itemvalue="Application.Method1" />
-        <item itemvalue="Application.MethodChange2" />
-        <item itemvalue="Application.MethodChange1" />
-        <item itemvalue="Application.VarChange2" />
+        <item itemvalue="Application.MemberDefaultMain" />
+        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.MethodInitMain2" />
+        <item itemvalue="Application.MethodInitMain1" />
+        <item itemvalue="Application.AccountMain" />
       </list>
     </recent_temporary>
   </component>
@@ -184,12 +218,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737376886944</updated>
-      <workItem from="1737376887979" duration="7649000" />
+      <workItem from="1737376887979" duration="19434000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737464438405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737464438405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
